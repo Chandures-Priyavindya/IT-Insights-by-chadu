@@ -165,7 +165,7 @@ section{
 }
 
 .header{
-   background-color: var(--white);
+   background-color: var(--orange);
    box-shadow: var(--box-shadow);
    border-bottom: var(--border);
    position: sticky;
@@ -372,7 +372,7 @@ section{
 .home-grid .box-container .box p{
    padding-bottom: 1rem;
    font-size: 2rem;
-   color:var(--light-color);
+   color:var(--black);
    overflow: hidden;
    text-overflow: ellipsis;
    white-space: nowrap;

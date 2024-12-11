@@ -24,6 +24,7 @@ include 'components/like_post.php';
 
    <!-- font awesome cdn link  -->
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+   
 
    <link rel="stylesheet" href="css/style.css">
 
@@ -73,16 +74,16 @@ include 'components/like_post.php';
       <div class="box">
          <p>categories</p>
          <div class="flex-box">
-            <a href="category.php?category=nature" class="links">nature</a>
-            <a href="category.php?category=education" class="links">education</a>
-            <a href="category.php?category=business" class="links">business</a>
-            <a href="category.php?category=travel" class="links">travel</a>
-            <a href="category.php?category=news" class="links">news</a>
-            <a href="category.php?category=gaming" class="links">gaming</a>
-            <a href="category.php?category=sports" class="links">sports</a>
-            <a href="category.php?category=design" class="links">design</a>
-            <a href="category.php?category=fashion" class="links">fashion</a>
-            <a href="category.php?category=persional" class="links">persional</a>
+            <a href="category.php?category=REACT" class="links">REACT</a>
+            <a href="category.php?category=REACT NATIVE" class="links">REACT NATIVE</a>
+            <a href="category.php?category=PHP" class="links">PHP</a>
+            <a href="category.php?category=HTML" class="links">HTML</a>
+            <a href="category.php?category=CSS" class="links">CSS</a>
+            <a href="category.php?category=MYSQL" class="links">MYSQL</a>
+            <a href="category.php?category=JAVA" class="links">JAVA</a>
+            <a href="category.php?category=KOTLIN" class="links">KOTLIN</a>
+            <a href="category.php?category=HOW TO" class="links">HOW TO</a>
+            <a href="category.php?category=C" class="links">C</a>
             <a href="all_category.php" class="btn">view all</a>
          </div>
       </div>

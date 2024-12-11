@@ -131,27 +131,27 @@ if(isset($_POST['draft'])){
       <p>post category <span>*</span></p>
       <select name="category" class="box" required>
          <option value="" selected disabled>-- select category* </option>
-         <option value="nature">nature</option>
-         <option value="education">education</option>
-         <option value="pets and animals">pets and animals</option>
-         <option value="technology">technology</option>
-         <option value="fashion">fashion</option>
-         <option value="entertainment">entertainment</option>
-         <option value="movies and animations">movies</option>
-         <option value="gaming">gaming</option>
-         <option value="music">music</option>
-         <option value="sports">sports</option>
-         <option value="news">news</option>
-         <option value="travel">travel</option>
-         <option value="comedy">comedy</option>
-         <option value="design and development">design and development</option>
-         <option value="food and drinks">food and drinks</option>
-         <option value="lifestyle">lifestyle</option>
-         <option value="personal">personal</option>
-         <option value="health and fitness">health and fitness</option>
-         <option value="business">business</option>
-         <option value="shopping">shopping</option>
-         <option value="animations">animations</option>
+         <option value="REACT">REACT</option>
+         <option value="REACT NATIVE">REACT NATIVE</option>
+         <option value="PHP">PHP</option>
+         <option value="HTML">HTML</option>
+         <option value="CSS">CSS</option>
+         <option value="MYSQL">MYSQL</option>
+         <option value="JAVA">JAVA</option>
+         <option value="KOTLIN">KOTLIN</option>
+         <option value="HOW TO">HOW TO</option>
+         <option value="C">C</option>
+         <option value="JAVASCRIPT">JAVASCRIPT</option>
+         <option value="C++">C++</option>
+         <option value="C#">C#</option>
+         <option value="GAME DEVELOPMENT">GAME DEVELOPMENT</option>
+         <option value="WEB DEVELOPMENT">WEB DEVELOPMENT</option>
+         <option value="BOOTSTRAP">BOOTSTRAP</option>
+         <option value="PYTHON">PYTHON</option>
+         <option value="PROJECTS">PROJECTS</option>
+         <option value="UI DESIGN">UI DESIGN</option>
+         <option value="FIGMA">FIGMA</option>
+         
       </select>
       <p>post image</p>
       <input type="file" name="image" class="box" accept="image/jpg, image/jpeg, image/png, image/webp">
